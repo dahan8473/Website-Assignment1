@@ -1,0 +1,22 @@
+Step 1: Add the HTML Skeleton (1/10)
+Create the structure of your site, only add the elements that you are using 
+
+Step 2: Add a Navigation Bar  (2/10)
+ You can follow the steps and adapt it to your content
+The links to the other sections are required and should work. (Links can be to other pages or just sections within the same page)
+
+Step 3: Add a Hero Section (1/10)
+This section should include an image and a button or a form (it's okay if it doesn't actually work, no associated actions are required)
+
+Step 4: Add an About me Section (2/10)
+This section should display some interesting characteristics
+You should have different types of HTML elements  (minimum different headings/text sizes)
+
+Step 5: Add a work experience section (1/10)
+You can display the work experience section how you prefer, whether it is using a list or cards etc...
+
+Step 6: Add contact me section  (2/10)
+This section should contain a form, it can be a simple form (the submit button does not have to work)
+
+Step 7: Add Footer (1/10)
+There should be a footer section, it can be just text that simply states "YourName's Portfolio". 
